@@ -1,0 +1,14 @@
+ 
+ 
+ .sticky-bottom {
+     background: #F8F9FA;
+     height: 50px;
+     position: fixed;
+     bottom: 0;
+     left: 0;
+     width: 100%;
+     margin-top: 2px;
+     text-align: center;
+     line-height: 50px;
+
+ }
